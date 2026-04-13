@@ -7,29 +7,34 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🚀 I’m currently working on
 - Building Android apps (APK + Play Store ready)
 - AI-powered tools (chatbots, UI generators, automation)
 - Frontend projects for real-world use
+  
 - 🤝 I’m looking to collaborate on
 - Open-source projects
 - AI + Web + Mobile integrations
 - Startup-level product ideas
+  
 - 🧠 I’m looking for help with
 - Scaling apps to production
 - Backend architecture (Node.js / APIs)
 - System design & deployment
+  
 - 🌱 I’m currently learning
 - Advanced JavaScript & React
 - AI integration (Gemini / OpenAI APIs)
 - App optimization & performance
+  
 - 💬 Ask me about
 - Kali Linux setup & dev workflow
 - APK building & Play Store publishing
 - Frontend projects for portfolio
+  
 - ⚡ Fun fact
 - I build projects faster than I explain them ⚡
 
