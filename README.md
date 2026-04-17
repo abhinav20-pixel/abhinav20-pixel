@@ -10,21 +10,29 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🚀 I’m currently working on                               - 🤝 I’m looking to collaborate on
-- Building Android apps (APK + Play Store ready)            - Open-source projects
-- AI-powered tools (chatbots, UI generators, automation)    - AI + Web + Mobile integrations
-- Frontend projects for real-world use                      - Startup-level product ideas
-  
-- 🧠 I’m looking for help with                              - 🌱 I’m currently learning
-- Scaling apps to production                                - Advanced JavaScript & React
-- Backend architecture (Node.js / APIs)                     - AI integration (Gemini / OpenAI APIs)
-- System design & deployment                                - App optimization & performance
+- 🚀 I’m currently working on
+- AI-powered tools (chatbots, UI generators, automation)                             
+- Building Android apps (APK + Play Store ready)   - Frontend projects for real-world use          
 
-- 💬 Ask me about                                           - ⚡ Fun fact
-- Kali Linux setup & dev workflow                           - I build projects faster than I explain them ⚡
+- 🤝 I’m looking to collaborate on
+- Open-source projects   - AI + Web + Mobile integrations
+- Startup-level product ideas
+
+- 🧠 I’m looking for help with                              
+- Scaling apps to production    - System design & deployment                            
+- Backend architecture (Node.js / APIs)                     
+
+- 🌱 I’m currently learning
+- Advanced JavaScript & React   - App optimization & performance
+- AI integration (Gemini / OpenAI APIs)
+
+- 💬 Ask me about                                           
+- Kali Linux setup & dev workflow    - Frontend projects for portfolio                       
 - APK building & Play Store publishing
-- Frontend projects for portfolio
-  
+
+- ⚡ Fun fact
+- I build projects faster than I explain them ⚡
+
 ## 🧠 My Focus Areas
 - ## 🎯 Focus Areas
 - 🚀 Full-Stack Development (Web + Mobile Apps)
