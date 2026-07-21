@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=kmr-abhinav23">
-    <img src="https://komarev.com/ghpvc/?username=kmr-abhinav23&label=Profile%20views&color=00FFFF&style=flat-square" alt="abhinav20-pixel's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=kmr-abhinav23&label=Profile%20views&color=00FFFF&style=flat-square" alt="kmr-abhinav23's profile views" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@
   <a href="https://github.com/kmr-abhinav23">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kmr-abhinav23&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="kmr-abhinav23's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=kmr-abhinav23&theme=github_dark&hide_border=true&cache_seconds=86400" alt="abhinav20-pixel's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=kmr-abhinav23&theme=github_dark&hide_border=true&cache_seconds=86400" alt="kmr-abhinav23's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=kmr-abhinav23&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Abhinav Kumar's GitHub Trophies" />
@@ -81,8 +81,8 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
 <p align="center">
-  <a href="https://github.com/abhinav20-pixel">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhinav20-pixel&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/kmr-abhinav23">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kmr-abhinav23&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
