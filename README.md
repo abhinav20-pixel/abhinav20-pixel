@@ -2,8 +2,8 @@
 <h3 align="center">Student</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=abhinav20-pixel">
-    <img src="https://komarev.com/ghpvc/?username=abhinav20-pixel&label=Profile%20views&color=00FFFF&style=flat-square" alt="abhinav20-pixel's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=kmr-abhinav23">
+    <img src="https://komarev.com/ghpvc/?username=kmr-abhinav23&label=Profile%20views&color=00FFFF&style=flat-square" alt="abhinav20-pixel's profile views" />
   </a>
 </p>
 
@@ -44,16 +44,16 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/abhinav20-pixel">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhinav20-pixel&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="abhinav20-pixel's GitHub Stats" />
+  <a href="https://github.com/kmr-abhinav23">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kmr-abhinav23&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="kmr-abhinav23's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=abhinav20-pixel&theme=github_dark&hide_border=true&cache_seconds=86400" alt="abhinav20-pixel's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=kmr-abhinav23&theme=github_dark&hide_border=true&cache_seconds=86400" alt="abhinav20-pixel's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=abhinav20-pixel&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Abhinav Kumar's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=kmr-abhinav23&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Abhinav Kumar's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav20-pixel&theme=github_dark&radius=10" alt="abhinav20-pixel's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kmr-abhinav23&theme=github_dark&radius=10" alt="kmr-abhinav23's Activity Graph" />
 </p>
 <p align="center">
   <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
@@ -86,7 +86,7 @@
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=abhinav20-pixel)
+![Top language](https://stats.pphat.top/languages?username=kmr-abhinav23)
 <br/>
 
 ## 🔗 Connect with Me
